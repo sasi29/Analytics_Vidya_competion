@@ -22,3 +22,4 @@ Fatalities due to traffic delays of emergency vehicles such as ambulance & fire 
 ### STEPS DONE 
 Using transfer learning VGG-16 model was used to perform classification
 ### SCREEN SHOT OF THE RANK
+![Capture](https://user-images.githubusercontent.com/35831581/88191965-a031df00-cc59-11ea-905d-b76de379b072.PNG)
