@@ -12,3 +12,4 @@ On one hand, knowing the factors will help consumers and borrowers to increase t
 2. Model training 
    I) Random forest - Accuracy for random forest was checked but it was less since it is a competition accuracy matters and many categorical variables are there 
    Catboost is choosed
+### SCREEN SHOT OF THE RANK 
