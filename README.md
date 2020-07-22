@@ -13,3 +13,4 @@ On one hand, knowing the factors will help consumers and borrowers to increase t
    I) Random forest - Accuracy for random forest was checked but it was less since it is a competition accuracy matters and many categorical variables are there 
    Catboost is choosed
 ### SCREEN SHOT OF THE RANK 
+![Capture](https://user-images.githubusercontent.com/35831581/88190770-4e3c8980-cc58-11ea-9d17-4ae07f69b1f4.PNG)
