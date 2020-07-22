@@ -1,6 +1,6 @@
 # Analytics_Vidya_competion
 This repository contains the notebooks which are submitted to the hackathon competitions conducted in the analytics vidya website.
-##1. Banking Competition 
+## 1. Banking Competition 
 Problem statement: To predict the interest rate of the customers based on the client information. 
 ## USES:
 On one hand, knowing the factors will help consumers and borrowers to increase their credit worthiness and place themselves in a better position to negotiate for getting a lower interest rate
